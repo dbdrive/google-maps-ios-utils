@@ -1,2 +1,2 @@
-binary "https://dl.google.com/geosdk/GoogleMaps.json" "6.0.1"
+binary "https://dl.google.com/geosdk/GoogleMaps.json" "7.0.0-beta"
 github "erikdoe/ocmock" "v3.9.1"
